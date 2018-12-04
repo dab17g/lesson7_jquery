@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 4, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Dathan Busby)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignement we learned how to edit a javascript file and implement jquery functions that can change the effects placed on elements.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://dab17g.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (It can be very helpful to access the developer tools console in order to view changes or find elements on a page.)
+2. (Jquery is very useful for applying affects to elements on a page.)
+3. (It is important to familiarize yourself with commands and functions that will help you develop your webpage.)
 
